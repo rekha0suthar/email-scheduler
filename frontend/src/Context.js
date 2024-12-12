@@ -1,7 +1,7 @@
 import { createContext, useState } from 'react';
 import axios from 'axios';
 
-const BASE_API_URI = 'http://localhost:5000/api';
+const BASE_API_URI = 'https://email-scheduler-backend-rho.vercel.app/api';
 
 const Context = createContext({});
 
