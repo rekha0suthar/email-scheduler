@@ -84,3 +84,9 @@ button {
 .email-wrapper p {
   margin-top: 0px !important;
 }
+
+.dummy-message {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 150px;
+}
